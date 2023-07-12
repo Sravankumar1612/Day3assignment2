@@ -1,0 +1,8 @@
+E:\New folder\Day3\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\New folder\Day3\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\New folder\Day3\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\New folder\Day3\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+E:\New folder\Day3\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+E:\New folder\Day3\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\New folder\Day3\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\New folder\Day3\Assignment\Assignment\obj\Debug\Assignment.pdb
